@@ -1,10 +1,11 @@
 :root {
-    --theme-color: #33495E;
+    --theme-color: #40BA83;
 }
 
 .markdown-section p {
     font-size: 1.125rem;
     line-height: 1.7;
+    color: #33495E;
 }
 
 .nav {
