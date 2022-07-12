@@ -12,8 +12,4 @@
 
 Проект LearningSQL является полностью некоммерческим!
 
-Приглашаем в наш уютный телеграм чат
 
-<a href="https://t.me/+iFfY9wYU16QxMDc6">
-<img width="100" height="100" src="/assets/telegram.jpeg">
-<br />
