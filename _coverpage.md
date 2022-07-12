@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-
-![](/assets/587777.png)
+![](/assets/sql4.png)
 
 # Learning SQL
 
+[GitHub](https://github.com/vndv/LearningSQL)
 [Get Started](/README.md)
 
 

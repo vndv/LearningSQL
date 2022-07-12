@@ -1,6 +1,8 @@
 <!-- _sidebar.md -->
 
-* [На главную](/README.md)
+* [LearningSQL](https://vndv.github.io/LearningSQL/#/)
+
+* [Почему мы учим SQL](/README.md)
 
 * [Базовые основы SQL](/resourses/core.md)
 
