@@ -8,6 +8,10 @@
 
 [Введение в системы баз данных | Дэйт К. Дж.](https://www.ozon.ru/product/vvedenie-v-sistemy-baz-dannyh-136880774/?sh=aNQUSwAAAA)
 
+[Базы данных. Инжиниринг надежности](https://www.ozon.ru/product/bazy-dannyh-inzhiniring-nadezhnosti-meydzhors-cheriti-kempbell-leyn-172385106/?sh=aNQUS1eujw)
+
 ## Статьи
 
 [Что такое База Данных](https://habr.com/ru/post/555760/)
+
+[Войти в айти.](https://vas3k.ru/inside/39/)
