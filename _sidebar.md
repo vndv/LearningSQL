@@ -2,7 +2,7 @@
 
 
 
-* [Почему мы учим SQL](/README.md)
+* [Почему мы учим SQL](/resourses/why.md)
 
 * [Базовые основы SQL](/resourses/core.md)
 
