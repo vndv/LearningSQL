@@ -13,3 +13,5 @@
 * [Опционально](/resourses/optional.md)
 
 * [Учим BI инструменты](/resourses/bi.md)
+
+* [Библиотека](/resourses/library.md)
