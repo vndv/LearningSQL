@@ -12,7 +12,7 @@
 
 * [Готовимся к собеседованию](/resourses/cv.md)
 
-* [Опционально](/resourses/optional.md)
+* [Дополнительно](/resourses/optional.md)
 
 * [Учим BI инструменты](/resourses/bi.md)
 
