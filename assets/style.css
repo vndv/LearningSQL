@@ -143,11 +143,13 @@
 #CHANGELOG,
 .app-nav {
     background-color: transparent !important;
+
 }
 
 @media screen and (max-width: 768px) {
     #CHANGELOG:hover {
         background: #fff2dc;
+
     }
 
     #CHANGELOG {
