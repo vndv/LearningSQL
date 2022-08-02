@@ -15,3 +15,5 @@
 [Что такое База Данных](https://habr.com/ru/post/555760/)
 
 [Войти в айти.](https://vas3k.ru/inside/39/)
+
+[Шпаргалка по SQL](https://tproger.ru/translations/sql-recap/?utm_referrer=recommendation-banner)
