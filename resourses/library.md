@@ -17,3 +17,7 @@
 [Войти в айти.](https://vas3k.ru/inside/39/)
 
 [Шпаргалка по SQL](https://tproger.ru/translations/sql-recap/?utm_referrer=recommendation-banner)
+
+## Тренинги
+
+[Data Engineering workshop](https://github.com/vndv/de_workshop)
