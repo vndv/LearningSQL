@@ -16,7 +16,9 @@
 
 [Войти в айти.](https://vas3k.ru/inside/39/)
 
-[Шпаргалка по SQL](https://tproger.ru/translations/sql-recap/?utm_referrer=recommendation-banner)
+[Шпаргалка по SQL 1](https://tproger.ru/translations/sql-recap/?utm_referrer=recommendation-banner)
+
+[Шпаргалка по SQL 2](https://uproger.com/shpargalki-sql-2023/)
 
 ## Тренинги
 
