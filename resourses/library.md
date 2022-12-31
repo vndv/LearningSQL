@@ -14,6 +14,8 @@
 
 [Что такое База Данных](https://habr.com/ru/post/555760/)
 
+[Что нужно знать о базах данных](https://imvanich.notion.site/7cee1b18bf6446818d2cd8dd22493269)
+
 [Войти в айти.](https://vas3k.ru/inside/39/)
 
 [Шпаргалка по SQL 1](https://tproger.ru/translations/sql-recap/?utm_referrer=recommendation-banner)
