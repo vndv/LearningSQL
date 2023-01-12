@@ -19,5 +19,3 @@
 * [Библиотека](/resourses/library.md)
 
 * [Как учиться](/resourses/how_to_learn.md)
-
-* [Контакты](/resourses/contact.md)

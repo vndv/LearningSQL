@@ -13,4 +13,3 @@
 Проект LearningSQL является полностью некоммерческим!
 
 
-https://vndv.github.io/LearningSQL/#/
