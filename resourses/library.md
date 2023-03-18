@@ -25,3 +25,7 @@
 ## Тренинги
 
 [Data Engineering workshop](https://github.com/vndv/de_workshop)
+
+## Онлайн песочница
+
+[SQLize Online ](https://sqlize.online/)
