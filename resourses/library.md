@@ -16,6 +16,8 @@
 
 [Что нужно знать о базах данных](https://imvanich.notion.site/7cee1b18bf6446818d2cd8dd22493269)
 
+[Best Practices to Write SQL Queries: How To Structure Your Code](https://imvanich.notion.site/SQL-d3e56906142c49ab9ae753fc65264f22)
+
 [Войти в айти.](https://vas3k.ru/inside/39/)
 
 [Шпаргалка по SQL 1](https://tproger.ru/translations/sql-recap/?utm_referrer=recommendation-banner)
